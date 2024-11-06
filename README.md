@@ -2,15 +2,15 @@
 
 
 
-# In this project, it is possible to check Fast-Food Chain's product varieties, and order them. 
+ In this project, it is possible to check Fast-Food Chain's product varieties, and order them. 
 
 
 
-# Technologies Used:
+ Technologies Used:
 
-# • HTML5, 
+ • HTML5, 
  
-# • CSS,
+ • CSS,
 
 
 
